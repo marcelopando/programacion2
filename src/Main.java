@@ -7,11 +7,5 @@ public class Main {
         System.out.printf("Bienvenido al sistema");
 
 
-        try {
-            int var = 3/0;}
-
-        catch (Exception e) {
-            System.out.println("\nno se puede dividir entre 0.");
-        }
     }
 }
